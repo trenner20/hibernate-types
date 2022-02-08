@@ -6,7 +6,7 @@ import org.hibernate.annotations.NaturalId;
 import org.hibernate.annotations.TypeDef;
 import org.junit.Test;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.time.YearMonth;
 import java.util.TimeZone;
 

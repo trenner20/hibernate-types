@@ -2,7 +2,7 @@ package com.vladmihalcea.hibernate.query;
 
 import org.hibernate.query.internal.AbstractProducedQuery;
 
-import javax.persistence.Query;
+import jakarta.persistence.Query;
 import java.util.Collections;
 
 /**

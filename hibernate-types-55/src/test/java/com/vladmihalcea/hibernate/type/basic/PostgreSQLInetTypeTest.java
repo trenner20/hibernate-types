@@ -5,7 +5,7 @@ import org.hibernate.Session;
 import org.hibernate.annotations.TypeDef;
 import org.junit.Test;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;

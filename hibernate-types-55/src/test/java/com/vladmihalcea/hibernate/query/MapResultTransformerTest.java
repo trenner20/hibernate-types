@@ -3,7 +3,7 @@ package com.vladmihalcea.hibernate.query;
 import com.vladmihalcea.hibernate.util.AbstractPostgreSQLIntegrationTest;
 import org.junit.Test;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.time.LocalDate;
 import java.util.Map;
 import java.util.stream.Collectors;

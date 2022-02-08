@@ -2,7 +2,7 @@ package com.vladmihalcea.hibernate.type.model;
 
 import org.hibernate.annotations.Type;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 /**
  * @author Vlad Mihalcea

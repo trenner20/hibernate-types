@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  * The {@link MapResultTransformer} allows us to return
- * a {@link Map} from a JPA {@link javax.persistence.Query}.
+ * a {@link Map} from a JPA {@link jakarta.persistence.Query}.
  * <p>
  * If there are aliases named as {@code key} or {@code value},
  * then those will be used.

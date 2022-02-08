@@ -4,7 +4,7 @@ import com.vladmihalcea.hibernate.util.AbstractTest;
 import org.hibernate.annotations.Type;
 import org.junit.Test;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.List;

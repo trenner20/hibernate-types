@@ -1,6 +1,6 @@
 package com.vladmihalcea.hibernate.util.transaction;
 
-import javax.persistence.EntityManager;
+import jakarta.persistence.EntityManager;
 import java.util.function.Consumer;
 
 /**

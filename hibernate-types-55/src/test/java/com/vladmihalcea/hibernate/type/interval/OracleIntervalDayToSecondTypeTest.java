@@ -5,8 +5,8 @@ import com.vladmihalcea.hibernate.util.AbstractOracleIntegrationTest;
 import org.hibernate.annotations.TypeDef;
 import org.junit.Test;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
 import java.time.Duration;
 
 import static org.junit.Assert.assertEquals;

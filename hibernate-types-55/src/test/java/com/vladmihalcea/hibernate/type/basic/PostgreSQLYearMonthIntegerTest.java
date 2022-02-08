@@ -9,7 +9,7 @@ import org.hibernate.query.NativeQuery;
 import org.junit.Ignore;
 import org.junit.Test;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.time.YearMonth;
 import java.util.List;
 import java.util.Properties;

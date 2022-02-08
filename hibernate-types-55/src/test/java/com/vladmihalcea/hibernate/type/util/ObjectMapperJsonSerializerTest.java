@@ -5,7 +5,7 @@ import com.google.common.collect.Lists;
 import org.hibernate.annotations.Type;
 import org.junit.Test;
 
-import javax.persistence.Column;
+import jakarta.persistence.Column;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.*;

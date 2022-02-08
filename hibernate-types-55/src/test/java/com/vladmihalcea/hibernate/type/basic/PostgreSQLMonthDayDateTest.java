@@ -5,7 +5,7 @@ import org.hibernate.Session;
 import org.hibernate.annotations.TypeDef;
 import org.junit.Test;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.time.MonthDay;
 import java.util.ArrayList;
 

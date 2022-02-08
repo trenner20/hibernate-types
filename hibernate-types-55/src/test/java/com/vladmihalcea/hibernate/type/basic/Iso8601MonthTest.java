@@ -7,7 +7,7 @@ import org.hibernate.annotations.TypeDef;
 import org.junit.Assert;
 import org.junit.Test;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.time.Month;
 import java.time.Year;
 

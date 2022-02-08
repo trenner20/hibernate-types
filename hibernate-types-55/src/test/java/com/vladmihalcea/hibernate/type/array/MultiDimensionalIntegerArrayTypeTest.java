@@ -10,7 +10,7 @@ import org.hibernate.type.LongType;
 import org.hibernate.type.StringType;
 import org.junit.Test;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.util.List;
 
 import static org.junit.Assert.assertEquals;

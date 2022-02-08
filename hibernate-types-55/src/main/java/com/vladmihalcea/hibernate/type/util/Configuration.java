@@ -6,7 +6,7 @@ import com.vladmihalcea.hibernate.util.ReflectionUtils;
 import com.vladmihalcea.hibernate.util.StringUtils;
 import org.hibernate.cfg.Environment;
 
-import javax.persistence.EntityManagerFactory;
+import jakarta.persistence.EntityManagerFactory;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
